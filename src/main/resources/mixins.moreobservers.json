@@ -3,6 +3,7 @@
   "minVersion": "0.8.4",
   "package": "com.stebars.moreobserversmod.mixin",
   "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.moreobservers.refmap.json",
   "mixins": [
     "MixinObserverBlock"
   ],
