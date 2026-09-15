@@ -5,7 +5,7 @@ license="Public domain"
 [[mods]]
 modId="moreobservers"
 version="1.0"
-displayName="More Observers"
+displayName="More Observers Mixed"
 #updateJSONURL=""
 displayURL="https://www.curseforge.com/minecraft/mc-mods/more-observers"
 #logoFile="logo.png"
@@ -24,6 +24,6 @@ Adds observers for crop age, distance, maybe more in future.'''
 [[dependencies.moreobservers]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5,1.17)"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"

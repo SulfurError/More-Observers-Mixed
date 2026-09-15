@@ -1,4 +1,4 @@
-package com.stebars.moreobserversmod.blocks;
+package com.stebars.moreobserversmod;
 
 import java.util.Random;
 
